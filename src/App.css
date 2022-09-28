@@ -6,7 +6,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: aqua;
+  background-color: rgb(171, 219, 75);
+  /* background-image: url("https://th.bing.com/th/id/OIP.mddpMLz2wxJsdSeApIDHYQHaJl?pid=ImgDet&w=200&h=258&c=7&dpr=1.5"); */
+  background-size: contain;
   font-family: 'Neucha', cursive;
 }
 
